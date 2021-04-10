@@ -7,7 +7,7 @@
   
 <img src="https://img.shields.io/badge/language-Python-purple"> <img src="https://img.shields.io/badge/language-php-purple"> <img src="https://img.shields.io/badge/language-Csharp-purple"> <img src="https://img.shields.io/badge/language-perl-purple"> <img src="https://img.shields.io/badge/os-Parrot-red"> </div> <br/>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=itpo8&count_private=true&show_icons=true&theme=midnight-purple" alt="itpo8" /> </p><br/>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=itpo8&count_private=true&title_color=red&show_icons=true&theme=midnight-purple" alt="itpo8" /> </p><br/>
 
 <p align="center"> 
   <a href="https://twitter.com/nofugar" target="blank"><img align="center" src=https://uupload.ir/files/t857_twitter.png alt="nofuzgar" height="25" width="25" /></a>
