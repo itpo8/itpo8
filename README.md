@@ -15,6 +15,3 @@
   <a href="https://t.me/ro0tserver" target="blank"><img align="center" src=https://uupload.ir/files/6wa_telegram.png alt="ro0tserver" height="25" width="25" /></a>
   <a href="https://b2n.ir/po0ri4" target="blank"><img align="center" src=https://uupload.ir/files/eh17_youtube.png alt="po0ri4" height="25" width="25" /></a>
 </p>
-<a href="https://github.com/itpo8/psg-sheller">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=itpo8&repo=convoychat" />
-</a>
