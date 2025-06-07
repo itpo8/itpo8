@@ -5,7 +5,7 @@
   
 <img alt="profile view" src="https://komarev.com/ghpvc/?username=itpo8&style=flat&color=red"> 
   
-<img src="https://img.shields.io/badge/language-Python-purple"> <img src="https://img.shields.io/badge/language-php-purple"> <img src="https://img.shields.io/badge/language-Csharp-purple"> <img src="https://img.shields.io/badge/language-perl-purple"> <img src="https://img.shields.io/badge/os-Parrot-red"> </div><img src="https://img.shields.io/badge/wordpress-blue"> </div> <br/>
+<img src="https://img.shields.io/badge/language-Python-purple"> <img src="https://img.shields.io/badge/language-php-purple"> <img src="https://img.shields.io/badge/language-Csharp-purple"> <img src="https://img.shields.io/badge/language-perl-purple"> <img src="https://img.shields.io/badge/os-Parrot-red"> <img src="https://img.shields.io/badge/wordpress-blue">  </div></div> <br/>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=itpo8&count_private=true&show_icons=true&theme=dracula" alt="po0ri4" /> </p><br/>
 
